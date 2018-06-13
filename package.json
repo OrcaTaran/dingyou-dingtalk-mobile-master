@@ -1,0 +1,29 @@
+{
+  "name": "dingyou-dingtalk-mobile",
+  "version": "2.0.1",
+  "description": "This is a development template for dingtalk",
+  "main": "page.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caohaijiang/dingyou-dingtalk-mobile.git"
+  },
+  "keywords": [
+    "dingtalk",
+    "nowa",
+    "antd",
+    "mobile",
+    "noflux",
+    "react",
+    "keeper",
+    "unity-api",
+    "natty",
+    "dingyou"
+  ],
+  "author": "caohaijiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caohaijiang/dingyou-dingtalk-mobile/issues"
+  },
+  "homepage": "https://github.com/caohaijiang/dingyou-dingtalk-mobile#readme"
+}
